@@ -2,14 +2,12 @@
 
 Bienvenue dans le système de gestion commerciale de la **Boutique de Monsieur Ali**. Ce projet Laravel permet de gérer les clients, le catalogue de produits, les stocks et la facturation.
 
----
-##  Prérequis
+##  Auteur du projet
 - **NOM** : MBAYAM
 - **PRENOM** : CHRISTOPHE
 - **ANNEE** : 2026
 - **NIVEAU** : GI2
 
----
 
 
 ## Table des matières
@@ -19,7 +17,6 @@ Bienvenue dans le système de gestion commerciale de la **Boutique de Monsieur A
 4. [Résolution des erreurs courantes](#résolution-des-erreurs-courantes)
 5. [Fonctionnalités du projet](#fonctionnalités-du-projet)
 
----
 
 ## Prérequis
 - **PHP** : version 8.2 ou supérieure (impératif)
@@ -27,7 +24,6 @@ Bienvenue dans le système de gestion commerciale de la **Boutique de Monsieur A
 - **Extensions PHP requises** : `php-sqlite3`, `php-gd`, `php-xml`, `php-mbstring`, `php-curl`
 - **Serveur Web** : XAMPP (Windows) ou Apache/Nginx (Linux)
 
----
 
 ## Installation sur Windows (XAMPP)
 
@@ -93,7 +89,7 @@ Bienvenue dans le système de gestion commerciale de la **Boutique de Monsieur A
 - **Cause** : Problème de permissions sur Linux.
 - **Solution** : `sudo chmod -R 777 storage`.
 
----
+
 
 ## Fonctionnalités du projet
 - **Accueil personnalisé** : Tableau de bord "Boutique Ali".
